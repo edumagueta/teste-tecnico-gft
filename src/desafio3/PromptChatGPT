@@ -1,0 +1,7 @@
+Desenvolva um sistema simples de gerenciamento de biblioteca em Java, o sistema deve ter:
+Ter uma classe Livro com propriedades como Titulo, Autor e AnoPublicacao.
+Ter uma classe Biblioteca que armazene uma lista de livros.
+Permitir adicionar novos livros, listar todos os livros, buscar livros por autor e remover livros da biblioteca.
+
+Regras:
+Use boas práticas de POO e lógica.
